@@ -1,1 +1,2 @@
-print("my first code")
+# Display the output
+print("New python file")
